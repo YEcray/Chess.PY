@@ -1,9 +1,3 @@
-#!/usr/bin/env python3
-"""
-Chess Game — you play White, the bot plays Black.
-Run: python chess.py
-"""
-
 import copy, json, random, threading, webbrowser
 from http.server import BaseHTTPRequestHandler, HTTPServer
 
